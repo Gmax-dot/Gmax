@@ -105,7 +105,7 @@ I have a strong interest in IT, web development, and software development. Famil
   <a href="https://github.com/Gmax-dot/sri-murugan-beds-tamilnadu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gmax-dot&repo=kapok-beds" />
   </a>
-  <a href="https://github.com/Gmax-dot/py-utils">
+  <a href="[https://github.com/Gmax-dot/py-utils](https://github.com/Gmax-dot/finearn)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gmax-dot&repo=py-utils" />
   </a>
 </p>
