@@ -78,19 +78,26 @@ I have a strong interest in IT, web development, and software development. Famil
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gmax-dot&style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gmax-dot)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Gmax-dot&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gmax-dot&layout=compact)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gmax-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gmax-dot&show_icons=true)
+### 🌐 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gmax-dot&layout=compact&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gmax-dot&theme=flat&no-frame=true&margin-w=10)
+### 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gmax-dot&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
+
+## 🐍 Contribution Graph
+![snake gif](https://github.com/Gmax-dot/Gmax-dot/blob/output/github-contribution-grid-snake.gif)
 
 ## 🗂️ Pinned Repositories
 
